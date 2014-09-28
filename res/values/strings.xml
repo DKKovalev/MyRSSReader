@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MyRSSReader</string>
+    <string name="channels">Channels</string>
+    <string name="action_pcworld">PCWorld</string>
+    <string name="action_kotaku">Kotaku</string>
+    <string name="action_bbc">BBC</string>
+    <string name="action_sg">StopGame</string>
+</resources>
